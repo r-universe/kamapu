@@ -1,0 +1,14 @@
+[
+  {
+    "package": "biblio",
+    "oncran": true
+  },
+  {
+    "package": "vegtable",
+    "oncran": true
+  },
+  {
+    "package": "yamlme",
+    "oncran": true
+  }
+]

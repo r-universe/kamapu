@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "biblio"]
+	path = biblio
+	url = https://github.com/kamapu/biblio
+	shallow = true
+	registered = true
+[submodule "vegtable"]
+	path = vegtable
+	url = https://github.com/kamapu/vegtable
+	shallow = true
+	registered = true
+[submodule "yamlme"]
+	path = yamlme
+	url = https://github.com/kamapu/yamlme
+	shallow = true
+	registered = true

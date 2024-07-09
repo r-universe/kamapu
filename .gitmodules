@@ -5,6 +5,9 @@
 [submodule "biblio"]
 	path = biblio
 	url = https://github.com/kamapu/biblio
+[submodule "taxnames"]
+	path = taxnames
+	url = https://github.com/kamapu/taxnames
 [submodule "vegtable"]
 	path = vegtable
 	url = https://github.com/kamapu/vegtable

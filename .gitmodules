@@ -8,9 +8,6 @@
 [submodule "taxnames"]
 	path = taxnames
 	url = https://github.com/kamapu/taxnames
-[submodule "vegtable"]
-	path = vegtable
-	url = https://github.com/kamapu/vegtable
 [submodule "yamlme"]
 	path = yamlme
 	url = https://github.com/kamapu/yamlme
